@@ -1,0 +1,148 @@
+.display-grande-contacto {
+	display: inherit !important;
+}
+
+h1 {
+	text-align:center;
+	color: black;
+	font-family: "kollektif", sans-serif;
+	font-size: 4em;
+	margin-left: auto;
+	margin-right:auto;
+	padding-bottom: 0;
+	margin-bottom: 0;
+	width: 100%;
+	max-width:300px;
+}
+
+
+h3{
+	text-align:center;
+	color: black;
+	font-family: "kollektif", sans-serif;
+	font-size: 1.5em;
+	margin-left: auto;
+	margin-right:auto;
+	padding-top: 0;
+	margin-top: 0;
+	width: 100%;
+	max-width:300px;
+}
+
+
+ul {
+	list-style-type: none;	
+	text-align:center;
+	position: relative;
+	
+}
+
+li {
+	font-weight: bold;
+	 float: none; 
+	 display: inline-block;
+	 margin:0; 
+	 padding:0;
+	 margin-top: 1em;
+	 font-family: "kollektif", sans-serif;
+}
+
+
+a {
+	text-indent:0;
+	margin:0;
+	text-decoration: none;
+	color: black;
+	padding-right: 5em;
+	padding-left: 4em;
+	padding-top: 1em;
+	padding-bottom: 1em;
+	
+}
+
+a:hover, a:active { 
+    background-color: #ebf5f5;
+}
+
+
+.titulo-contacto {
+	
+	float: left;
+	height: 11em;
+	background-image: url("./img/arboles contacto.jpg");
+	background-color: white;
+	margin-left: 26%;
+	margin-right:auto;
+	margin-bottom: 2em;
+	margin-top: 0.4em;
+	border-left: 0.4em solid;
+	border-bottom: 0.4em solid;
+	border-color: #bcdcdc;
+	padding: 1em;
+	text-align:left;
+	color: black;
+	font-family: "kollektif", sans-serif;
+	letter-spacing: 0.2em;
+	font-size: 1.5em;
+
+	
+}
+
+.links-contacto-m {
+	border-bottom: 6px solid;
+	border-right: 6px solid;
+	border-color: #bcdcdc;
+    float: right;
+	font-family: "kollektif", sans-serif;
+	text-align: center;
+	margin-top: 2em;
+	padding: 1em;
+	width: 10%;
+	margin-right: 28%;
+	
+}
+
+.links-contacto-ig {
+	border-bottom: 6px solid;
+	border-right: 6px solid;
+	border-color: #bcdcdc;
+    float: right;
+	font-family: "kollektif", sans-serif;
+	text-align: center;
+	margin-top: 4em;
+	padding: 1em;
+	width: 10%;
+	margin-right: 28%;
+	
+}
+
+
+
+.homebutton {
+	width: 16%;
+	text-align: center;
+	background-color: #ebf5f5;
+	margin: auto;
+	padding-top: 1em;
+	padding-bottom: 1em;
+	padding-left: 0;
+	padding-right: 0;
+}
+
+footer {
+	clear: both;
+	text-align:center;
+	color: black;
+	font-family: "kollektif", sans-serif;
+	font-size: 0.8em;
+	display: block;
+	font-weight: bold;
+	letter-spacing: 0.3em;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 0.3em;
+	width: 75em;
+	
+	
+}
+	
